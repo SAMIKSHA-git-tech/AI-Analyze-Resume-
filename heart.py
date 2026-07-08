@@ -15,7 +15,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title("❤️ Heart Disease Prediction System")
+st.title("❤️ Heart-Disease-Prediction-System")
 st.write("THIS IS A HEART DISEASE PREDICTION SYSTEM. IT PREDICTS WHETHER A PERSON HAS HEART DISEASE OR NOT BASED ON THE INPUT PARAMETERS.")
 st.write("Please enter the following parameters to predict whether a person has heart disease or not.")
 
